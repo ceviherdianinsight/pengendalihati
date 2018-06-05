@@ -8,7 +8,7 @@ Itu sudah cukup sakti.
 _______________________________________________________________________________
 
 
-### [#Sesederhana itukah cinta](https://itsmecevi.github.io/-Sesederhana-itukah-cinta/)
+### [#Sesederhana itukah cinta?](https://itsmecevi.github.io/-Sesederhana-itukah-cinta/)
 
 ### [#MAAF](https://itsmecevi.github.io/-MAAF/)
 
