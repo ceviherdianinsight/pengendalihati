@@ -11,29 +11,16 @@ Itu sudah cukup sakti.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+**"Aku ingin mencintamu dengan sederhana"**
 
-# Header 1
-## Header 2
-### Header 3
+Aku ingin mencintaimu dengan sederhana
 
-- Bulleted
-- List
+Dengan kata yang tak sempat diucapkan kayu kepada api yang menjadikannya abu
 
-1. Numbered
-2. List
+Aku ingin mencintaimu dengan sederhana
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Dengan isyarat yang tak sempat disampaikan awan kepada hujan yang menjadikannya tiada
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itsmecevi/pengendali-hati/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
