@@ -4,6 +4,7 @@ Kita tidak usah jadi pengendali udara, pengendali air atau pengendali api. Kita 
 Itu sudah cukup sakti.
 
 **-Tere Liye**
+_______________________________________________________________________________
 
 
 ### [#Sesederhana itukah cinta](https://itsmecevi.github.io/-Sesederhana-itukah-cinta/)
