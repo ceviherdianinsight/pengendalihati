@@ -6,7 +6,7 @@ Itu sudah cukup sakti.
 **-Tere Liye**
 
 
-### [#Sesederhana itukah cinta]()
+### [#Sesederhana itukah cinta](https://itsmecevi.github.io/-Sesederhana-itukah-cinta/)
 
 
 
