@@ -1,10 +1,12 @@
-## Cintaku mengalahkan hujan
+# Cintaku mengalahkan hujan
 
-You can use the [editor on GitHub](https://github.com/itsmecevi/pengendali-hati/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Kita tidak usah jadi pengendali udara, pengendali air atau pengendali api. Kita cukup jadi pengendali hati saja.
+Itu sudah cukup sakti.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-Tere Liye
 
-### Markdown
+
+### Aku ingin mencintamu dengan sederhana
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
