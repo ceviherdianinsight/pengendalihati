@@ -6,7 +6,7 @@ Itu sudah cukup sakti.
 **-Tere Liye**
 
 
-### Aku ingin mencintamu dengan sederhana
+### #Sesederhana itukah cinta
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
