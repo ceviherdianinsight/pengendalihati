@@ -9,7 +9,7 @@ _______________________________________________________________________________
 
 ### [#Sudut Hatimu Yang Mana](https://itsmecevi.github.io/sudut-tegak-lurus-hatimu/)
 
-### [#Jika dirimu adalah sebuah bilangan]()
+### [#Jika dirimu adalah sebuah bilangan](https://itsmecevi.github.io/jika-dirimu-adalah-bilangan/)
 
 
 
