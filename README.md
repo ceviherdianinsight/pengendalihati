@@ -12,7 +12,7 @@ _______________________________________________________________________________
 ### [#Jika dirimu adalah sebuah bilangan](https://itsmecevi.github.io/jika-dirimu-adalah-bilangan/)
 
 
-### [#Definisi Sebenar-benarnya]()
+### [#Lelaki Sebenar-benarnya]()
 
 
 
