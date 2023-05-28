@@ -3,16 +3,16 @@
 Rangkaian kata, dari lelaki biasa sederhana apa adanya...
 _______________________________________________________________________________
 
-* [#Maaf](https://itsmecevi.github.io/-MAAF/)
+* [Maaf](https://itsmecevi.github.io/-MAAF/)
 
-* [#Mencintaimu adalah kesalahan](https://itsmecevi.github.io/mencintaimu-adalah-kesalahan/)
+* [Mencintaimu adalah kesalahan](https://itsmecevi.github.io/mencintaimu-adalah-kesalahan/)
 
-* [#Sudut Hatimu Yang Mana](https://itsmecevi.github.io/sudut-tegak-lurus-hatimu/)
+* [Sudut Hatimu Yang Mana](https://itsmecevi.github.io/sudut-tegak-lurus-hatimu/)
 
-* [#Jika dirimu adalah sebuah bilangan](https://itsmecevi.github.io/jika-dirimu-adalah-bilangan/)
+* [Jika dirimu adalah sebuah bilangan](https://itsmecevi.github.io/jika-dirimu-adalah-bilangan/)
 
 
-* [#Lelaki Sebenarnya](https://itsmecevi.github.io/lelaki-sebenarnya/)
+* [Lelaki Sebenarnya](https://itsmecevi.github.io/lelaki-sebenarnya/)
 
 # Cintaku mengalahkan hujan
 
