@@ -8,7 +8,7 @@ _______________________________________________________________________________
 
 
 
-* [Mengukir-Takdir-Sendiri-di-Tengah-Zaman-yang-Tak-Pasti](https://ceviherdianinsight.github.io/Mengukir-Takdir-Sendiri-di-Tengah-Zaman-yang-Tak-Pasti/)
+* [Mengukir Takdir Sendiri di Tengah Zaman yang Tak Pasti](https://ceviherdianinsight.github.io/Mengukir-Takdir-Sendiri-di-Tengah-Zaman-yang-Tak-Pasti/)
 
 
 
