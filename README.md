@@ -3,14 +3,14 @@
 Rangkaian kata, dari lelaki biasa sederhana apa adanya...
 _______________________________________________________________________________
 
-* [Maaf](https://itsmecevi.github.io/-MAAF/)
-* [Mencintaimu adalah kesalahan](https://itsmecevi.github.io/mencintaimu-adalah-kesalahan/)
-* [Sudut Hatimu Yang Mana](https://itsmecevi.github.io/sudut-tegak-lurus-hatimu/)
-* [Jika dirimu adalah sebuah bilangan](https://itsmecevi.github.io/jika-dirimu-adalah-bilangan/)
-* [Lelaki Sebenarnya](https://itsmecevi.github.io/lelaki-sebenarnya/)
+
+### July:
 
 
-by: ceviherdianinsight.github.io
+
+* [Mengukir-Takdir-Sendiri-di-Tengah-Zaman-yang-Tak-Pasti](https://ceviherdianinsight.github.io/Mengukir-Takdir-Sendiri-di-Tengah-Zaman-yang-Tak-Pasti/)
+
+
 
 
 
