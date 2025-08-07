@@ -4,6 +4,11 @@ Rangkaian kata, dari lelaki biasa sederhana apa adanya...
 _______________________________________________________________________________
 
 
+**Agustus 2025:**
+
+* [Yang Tersisa Saat Segalanya Hilang: Integritas](https://ceviherdianinsight.github.io/Yang-Tersisa-Saat-Segalanya-Hilang-Integritas/)
+
+
 **Juli 2025:**
 
 * [Jalanmu Tidak Harus Sama](https://ceviherdianinsight.github.io/Jalanmu-Tidak-Harus-Sama/)
