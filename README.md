@@ -6,6 +6,7 @@ _______________________________________________________________________________
 
 **Agustus 2025:**
 
+* [Uang Adalah Horizon Kehidupan](https://ceviherdianinsight.github.io/Uang-Adalah-Horizon-Kehidupan/)
 * [Yang Tersisa Saat Segalanya Hilang: Integritas](https://ceviherdianinsight.github.io/Yang-Tersisa-Saat-Segalanya-Hilang-Integritas/)
 
 
