@@ -6,6 +6,8 @@ _______________________________________________________________________________
 
 **Juli 2025:**
 
+
+* [Memulai dari yang Tersulit](https://ceviherdianinsight.github.io/Memulai-dari-yang-Tersulit/)
 * [Kesulitan:= Pertumbuhan yang Tak Terlihat](https://ceviherdianinsight.github.io/Kesulitan-Pertumbuhan-yang-Tak-Terlihat/)
 * [Ikon Perubahan dari Reruntuhan Harapan](https://ceviherdianinsight.github.io/Ikon-Perubahan-dari-Reruntuhan-Harapan/)
 * [Bahan Bakar Kehidupan](https://ceviherdianinsight.github.io/Bahan-Bakar-Kehidupan/)
