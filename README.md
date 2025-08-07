@@ -6,6 +6,7 @@ _______________________________________________________________________________
 
 **Juli 2025:**
 
+* [Kesulitan:= Pertumbuhan yang Tak Terlihat](https://ceviherdianinsight.github.io/Kesulitan-Pertumbuhan-yang-Tak-Terlihat/)
 * [Ikon Perubahan dari Reruntuhan Harapan](https://ceviherdianinsight.github.io/Ikon-Perubahan-dari-Reruntuhan-Harapan/)
 * [Bahan Bakar Kehidupan](https://ceviherdianinsight.github.io/Bahan-Bakar-Kehidupan/)
 * [Sebuah Renungan di Tengah Perubahan Zaman](https://ceviherdianinsight.github.io/Sebuah-Renungan-di-Tengah-Perubahan-Zaman/)
